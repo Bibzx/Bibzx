@@ -47,9 +47,9 @@
 ## 📂 Projects
 
 * 🔑 Dynamo Key (UKK Project)
-* 📊 Web Attendance System
-* 🔐 Web Security Lab (ongoing)
-* 🤖 ML Security Mini Project (coming soon)
+* 📊 Web Attendance System (planned)
+* 🔐 Web Security Lab (planned)
+* 🤖 ML Security Mini Project (planned)
 
 ## 🎯 Goals
 
