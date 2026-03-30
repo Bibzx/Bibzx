@@ -1,6 +1,6 @@
 # 👋 Hello I'm Labib Lukman.j 🚀
 
-![profile](https://github.com/Bibzx/LabibLukman/)
+![profile](https://github.com/Bibzx/Bibzx/blob/main/1399981.png?raw=true)
 
 ## 💻 About Me
 
