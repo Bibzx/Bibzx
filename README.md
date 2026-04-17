@@ -61,7 +61,7 @@
 ## 📂 Projects
 
 * 🔑 Dynamo Key (UKK Project)
-* 📊 Web Attendance System — planned (React, Node.js, MySQL)
+* 📊 Web Attendance System — planned (PHP,MySQL,HTML&CSS)
 * 🔐 Web Security Lab — planned (XSS, SQL Injection)
 * 🤖 ML Security Mini Project — planned (Intrusion Detection System)
 
