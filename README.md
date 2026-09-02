@@ -77,9 +77,10 @@ Weather application built with TypeScript.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LABIBLJ&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LABIBLJ&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LABIBLJ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LABIBLJ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🚀 Goals
